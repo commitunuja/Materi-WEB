@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+table {
+    background: coral;
+}
+
+.bg-warna {
+    background: cadetblue;
+}
+
+#garis {
+    color: springgreen;
+    font-size: 20px;
+    border: 1px solid #000;
+}
