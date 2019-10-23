@@ -52,7 +52,7 @@ h1 {
     justify-content: center;
     align-items: center;
     min-height: 100px;
-    height: 70vh;
+    height: 90vh;
 }
 
 .header-welcome .header-btn{
@@ -137,7 +137,7 @@ h1 {
 footer {
     background: black;
     color: white;
-    padding: 60px 25px;
+    padding: 30px 10px;
   }
   footer p {
     margin-block-start: 0em;
